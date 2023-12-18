@@ -5,7 +5,7 @@ Link: [ Link to project ](  https://ehaboo.github.io/Cryptoine-Project2/ )
 
 ## Welcome! 👋
 
-Thanks for checking out My First coding Project.
+Thanks for checking out My Second coding Project.
 
 
 **To do this project, you need a basic understanding of HTML , CSS and Javascript/jQuery.**
